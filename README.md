@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() { ckolko
+# Airbnb JavaScript Style Guide() { ckolko mojno
 
 *A mostly reasonable approach to JavaScript*
 
