@@ -1,4 +1,5 @@
-n# Airbnb JavaScript Style Guide() { буль 
+n# Airbnb JavaScript Style Guide() { бу
+>>>>>>> branch1
 
 *A mostly reasonable approach to JavaScript*
 
